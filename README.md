@@ -12,10 +12,12 @@ O projeto consiste em duas páginas:
 -   **Tailwind CSS v3** (utilizado via CDN)
 
 ## Desktop
-![image](https://user-images.githubusercontent.com/76708357/162736350-2c71a443-f157-42ec-8e3f-bd62d2889b39.png)
+![image](tailwind-desktop.png)
 
 ## Mobile
-![image](https://user-images.githubusercontent.com/76708357/162736513-dc021074-a2e5-4a19-8715-23b8706a5638.png)
+![image](tailwind-mobile.png)
+## animacão  (Hover)
+![image](animation.gif)
 
 
 ## ✨ Funcionalidades Demonstradas
