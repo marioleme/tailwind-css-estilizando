@@ -6,6 +6,10 @@ O projeto consiste em duas páginas:
 1.  `index.html`: Uma página simples de "Olá Mundo" para demonstrar o uso básico do Tailwind.
 2.  `newsletter.html`: Um componente de formulário de newsletter mais elaborado.
 
+ - [Link para o projeto](https://tailwind.weboliveira.top)
+  - [Link GitHub](https://github.com/marioleme/tailwind-css-estilizando)
+
+
 ## 🚀 Tecnologias Utilizadas
 
 -   **HTML5**
@@ -96,3 +100,4 @@ Como este projeto utiliza o Tailwind CSS via CDN, não há necessidade de um pro
 2.  Abra o arquivo `newsletter.html` ou `index.html` em seu navegador de preferência.
 
 
+ 
